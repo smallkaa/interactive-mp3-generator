@@ -31,4 +31,4 @@ Run the script from your command line, providing the paths to your audio and sub
 ### Basic Command
 
 ```bash
-python your_script_name.py --audio "path/to/your/audio.mp3" --subtitles "path/to/your/subs.srt"
+python interactive_transcript.py --audio "path/to/your/audio.mp3" --subtitles "path/to/your/subs.srt" [--no-embed-mp3]
