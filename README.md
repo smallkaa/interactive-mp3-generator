@@ -17,7 +17,7 @@ This Python script creates a single, self-contained HTML file from an MP3 audio 
 ## Requirements
 
 -   Python 3
--   The `[mutagen](https://github.com/quodlibet/mutagen)` library. You can install it via pip:
+-   The [mutagen](https://github.com/quodlibet/mutagen) library. You can install it via pip:
     ```bash
     pip install mutagen
     ```
